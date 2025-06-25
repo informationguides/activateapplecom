@@ -1,1 +1,1 @@
-# activateapplecom
+# activate.apple.com
