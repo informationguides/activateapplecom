@@ -4,7 +4,7 @@ Activate Your New iPad Easily with activate.apple.com
 
 .. image:: get.jpg
    :alt: iforgot.apple.com
-   :target: https://fm.ci?aHR0cHM6Ly9hcHBsZWNvZGUtaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://activate.apple.com/
 
 Just bought a new iPad? Congratulations! Before you start streaming, browsing, or using your favorite apps, the first thing you need to do is activate your iPad. The easiest and most secure way to do this is through Apple’s official activation site: `activate.apple.com <https://activate.apple.com>`_.
 
